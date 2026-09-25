@@ -1,0 +1,31 @@
+{
+  "name": "node_blog",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "nodejs",
+    "for",
+    "beginer"
+  ],
+  "homepage": "https://github.com/hoangan3526/NodeJS_blog#readme",
+  "bugs": {
+    "url": "https://github.com/hoangan3526/NodeJS_blog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangan3526/NodeJS_blog.git"
+  },
+  "license": "ISC",
+  "author": "hoangan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
